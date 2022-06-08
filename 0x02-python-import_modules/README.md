@@ -1,1 +1,2 @@
-This directory contains Python scripts that cover module importation and implementation as executed in Python 3.4.
+# Python - import & modules
+ Foundations - Higher-level programming ― Python
