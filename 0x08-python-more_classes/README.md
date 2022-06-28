@@ -9,6 +9,6 @@ The source code has to follow certain rules:
 ```python
 #!/usr/bin/python3
 ```
- * Code should use Pycodestyle(2.7).
+
  * Should end with new line.
  * Must be executable.
